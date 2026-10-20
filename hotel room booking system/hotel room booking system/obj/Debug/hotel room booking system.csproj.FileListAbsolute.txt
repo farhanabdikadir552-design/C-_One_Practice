@@ -1,0 +1,11 @@
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\obj\Debug\hotel room booking system.csproj.AssemblyReference.cache
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\obj\Debug\hotel_room_booking_system.Form1.resources
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\obj\Debug\hotel_room_booking_system.Properties.Resources.resources
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\obj\Debug\hotel room booking system.csproj.GenerateResource.cache
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\obj\Debug\hotel room booking system.csproj.CoreCompileInputs.cache
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\bin\Debug\hotel room booking system.exe.config
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\bin\Debug\hotel room booking system.exe
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\bin\Debug\hotel room booking system.pdb
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\obj\Debug\hotel room booking system.exe
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\obj\Debug\hotel room booking system.pdb
+C:\Users\farha\Desktop\c#\hotel room booking system\hotel room booking system\obj\Debug\hotel room booking system.exe.config
