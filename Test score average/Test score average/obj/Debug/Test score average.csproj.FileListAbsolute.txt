@@ -1,0 +1,11 @@
+C:\Users\farha\Desktop\c#\Test score average\Test score average\bin\Debug\Test score average.exe.config
+C:\Users\farha\Desktop\c#\Test score average\Test score average\bin\Debug\Test score average.exe
+C:\Users\farha\Desktop\c#\Test score average\Test score average\bin\Debug\Test score average.pdb
+C:\Users\farha\Desktop\c#\Test score average\Test score average\obj\Debug\Test score average.csproj.AssemblyReference.cache
+C:\Users\farha\Desktop\c#\Test score average\Test score average\obj\Debug\Test_score_average.Form1.resources
+C:\Users\farha\Desktop\c#\Test score average\Test score average\obj\Debug\Test_score_average.Properties.Resources.resources
+C:\Users\farha\Desktop\c#\Test score average\Test score average\obj\Debug\Test score average.csproj.GenerateResource.cache
+C:\Users\farha\Desktop\c#\Test score average\Test score average\obj\Debug\Test score average.csproj.CoreCompileInputs.cache
+C:\Users\farha\Desktop\c#\Test score average\Test score average\obj\Debug\Test score average.exe
+C:\Users\farha\Desktop\c#\Test score average\Test score average\obj\Debug\Test score average.pdb
+C:\Users\farha\Desktop\c#\Test score average\Test score average\obj\Debug\Test score average.exe.config
