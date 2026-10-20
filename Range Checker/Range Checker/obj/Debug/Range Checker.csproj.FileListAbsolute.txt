@@ -1,0 +1,10 @@
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\bin\Debug\Range Checker.exe.config
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\bin\Debug\Range Checker.exe
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\bin\Debug\Range Checker.pdb
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\obj\Debug\Range Checker.csproj.AssemblyReference.cache
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\obj\Debug\Range_Checker.Form1.resources
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\obj\Debug\Range_Checker.Properties.Resources.resources
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\obj\Debug\Range Checker.csproj.GenerateResource.cache
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\obj\Debug\Range Checker.csproj.CoreCompileInputs.cache
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\obj\Debug\Range Checker.exe
+C:\Users\farha\Desktop\c#\Range Checker\Range Checker\obj\Debug\Range Checker.pdb
