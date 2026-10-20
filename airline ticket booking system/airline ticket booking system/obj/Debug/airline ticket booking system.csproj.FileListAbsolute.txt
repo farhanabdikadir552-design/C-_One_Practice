@@ -1,0 +1,11 @@
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\bin\Debug\airline ticket booking system.exe.config
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\bin\Debug\airline ticket booking system.exe
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\bin\Debug\airline ticket booking system.pdb
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\obj\Debug\airline ticket booking system.csproj.AssemblyReference.cache
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\obj\Debug\airline_ticket_booking_system.Form1.resources
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\obj\Debug\airline_ticket_booking_system.Properties.Resources.resources
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\obj\Debug\airline ticket booking system.csproj.GenerateResource.cache
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\obj\Debug\airline ticket booking system.csproj.CoreCompileInputs.cache
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\obj\Debug\airline ticket booking system.exe
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\obj\Debug\airline ticket booking system.pdb
+C:\Users\farha\Desktop\c#\airline ticket booking system\airline ticket booking system\obj\Debug\airline ticket booking system.exe.config
